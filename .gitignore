@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+dateweb/dateweb/settings/local.py
+.vscode
