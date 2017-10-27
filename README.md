@@ -2,4 +2,4 @@
 Repository for the new website
 
 # slack 
-[slack](https://join.slack.com/t/datepages/shared_invite/enQtMjYyNDYxNDgxNTA4LWVlMDIzMzYwY2Y5MzA1YTlhMzk4ZWRkYmMzOGZmMjYxOGQ5YjhhYWQ5NDAwMGYyOTAyY2MwOGQzNzBiM2U4NTE)
+[slack](https://join.slack.com/t/datateknologerna/shared_invite/enQtMjYyNzc1Mjk1Nzc5LWYxZjVlZTIyZTk1MmQ2OGU4ZWVkM2UxNThhOGI1NGM1OTA4NmIyODI5Y2M3NWE1ZjY0OTA2NWUwOTU5MmEzN2U)
